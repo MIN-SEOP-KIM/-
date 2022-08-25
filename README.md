@@ -30,6 +30,7 @@ true 이지만 마지막 순서가 되면 while문의 조건의 false가 되므�
 
 ![image](https://user-images.githubusercontent.com/93521131/186560865-2eb75cb6-e933-42dd-b059-e12b451c1597.png)
 ![image](https://user-images.githubusercontent.com/93521131/186561802-92abdf21-fdca-496f-beeb-0b943c033f8d.png)
+
 executeQuery 에 값을 String 형식으로 가져 왔기 때문에 , getString으로 받아야 한다.
 
 
