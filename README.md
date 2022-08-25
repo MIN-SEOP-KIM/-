@@ -29,8 +29,9 @@ true 이지만 마지막 순서가 되면 while문의 조건의 false가 되므�
 앞에서 설명한 웹페이지의 테이블을 생성하기전, DB안에 있는 데이터를 가져온것이다.
 
 ![image](https://user-images.githubusercontent.com/93521131/186560865-2eb75cb6-e933-42dd-b059-e12b451c1597.png)
+![image](https://user-images.githubusercontent.com/93521131/186561802-92abdf21-fdca-496f-beeb-0b943c033f8d.png)
+executeQuery 에 값을 String 형식으로 가져 왔기 때문에 , getString으로 받아야 한다.
 
-<td>태그 안에서 가져올 데이터 가 String인 이유가  sql을 가져올 때 String으로 선언해주었기 때문이다.
 
 실행화면은 맨처음에 설명하였으므로, 이상 설명을 마치겠다.
 
